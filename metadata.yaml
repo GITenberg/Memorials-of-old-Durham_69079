@@ -1,11 +1,16 @@
 _repo: Memorials-of-old-Durham_69079
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69079-h/images/cover.jpg
 creator:
   editor:
     agent_name: Leighton, Henry R.
     gutenberg_agent_id: '55092'
     url: http://www.gutenberg.org/2009/agents/55092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69079#Memorials-of-old-Durham
 gutenberg_issued: '2022-10-01'
 identifiers:
   gutenberg: '69079'
